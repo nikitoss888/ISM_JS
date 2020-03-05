@@ -1,0 +1,2 @@
+let theEarth;
+let currUser;
